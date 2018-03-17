@@ -1,1 +1,3 @@
-# planyo-app
+planyo-app
+
+app dedicated for HR.
